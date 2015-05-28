@@ -5,7 +5,7 @@
 
 osu!の譜面を自動で一括ダウンロードするプログラム。  
 やばそうだったら消します。  
-phpで適当に作ってますが、osu!Notificationのosu_api.rbのget_beatmaps使って作ったほうが詳細に作れたかもしれません。  
+phpで適当に作ってますが、[osu!Notification](https://github.com/flum1025/osu_Notification)のosu_api.rbのget_beatmaps使って作ったほうが詳細に作れたかもしれません。  
 osu!Notificationより先に作っちゃったから仕方ないね。  
 スレッド化してないので譜面が大量にあると結構時間かかります。  
 40譜面x５２ページで８時間ぐらいかかってます。  
